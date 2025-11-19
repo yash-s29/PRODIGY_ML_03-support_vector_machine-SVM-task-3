@@ -17,6 +17,7 @@ The dataset used in this project is derived from the Kaggle Cats and Dogs datase
 Each image is labeled as follows:
 
 -1: Dog
+
 -0: Cat
 
 # Installation
