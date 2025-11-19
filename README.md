@@ -33,9 +33,13 @@ pip install -r requirements.txt
 The model is trained using a linear SVM with the following steps:
 
 1.Load and preprocess images (resize to 64x64 pixels).
+
 2.Flatten images to create feature vectors.
+
 3.Split the training data into a training set and a validation set.
+
 4.Train the SVM model on the training data.
+
 5.Predict labels for the test images and save the results.
 
 # Performance
