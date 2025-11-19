@@ -22,7 +22,7 @@ Each image is labeled as follows:
 
 # Installation
 
-1.Clone the repository: git clone https://github.com/kusumithasajja/PRODIGY_ML_03.git cd Cats_vs_Dogs_Classification
+1.Clone the repository: git clone https://github.com/yash-s29/PRODIGY_ML_03-support_vector_machine-SVM-task-3.git cd Cats_vs_Dogs_Classification
 
 2.Install the required packages:
 
